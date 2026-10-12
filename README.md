@@ -1,4 +1,4 @@
-# Lab Instructions: Unit Testing
+# Lab Instructions: Unit Testing.
 
 ## Task 1: Add Jest as a devDependency
 
